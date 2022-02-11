@@ -125,9 +125,3 @@ collections:
   War:
     template: { name: IMDb Genre, genre: war, limit: 200 }
     summary: War Film is a genre that looks at the reality of war on a grand scale. They often focus on landmark battles as well as political issues within war. This genre usually focuses on a main character and his team of support, giving the audience an inside look into the gritty reality of war.
-  Western:
-    template: { name: IMDb Genre, genre: western, limit: 200 }
-	imdb_list:
-	  - https://www.imdb.com/list/ls009668171/
-	  - https://www.imdb.com/list/ls002190204/
-    summary: "Western Film is a genre that revolves around stories primarily set in the late 19th century in the American Old West. Most Westerns are set between the American Civil War (1865) and the early 1900s. Common themes within Western Film include: the conquest of the wild west, the cultural separation of the East and the West, the West’s resistance to modern change, the conflict between Cowboys and Indians, outlaws, and treasure/gold hunting. American Western Film usually revolves around a stoic hero and emphasizes the importance of honor and sacrifice."
